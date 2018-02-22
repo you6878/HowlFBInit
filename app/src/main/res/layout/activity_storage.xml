@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.seminar.howlfb.storage.StorageActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:background="@android:color/darker_gray"
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:id="@+id/image_upload"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="사진 올리기"
+                android:textSize="15dp"
+                android:textColor="@android:color/black"/>
+
+            <android.support.v7.widget.AppCompatButton
+                app:backgroundTint="#f0980a"
+                android:textColor="#e2d8d8"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gallery"
+                android:textSize="10dp"
+                android:id="@+id/btn_show_Gallery"
+                />
+
+            <EditText
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_upload_Name"
+                android:hint="ImageName"
+
+                />
+
+            <android.support.v7.widget.AppCompatButton
+                app:backgroundTint="#f04d0a"
+                android:textColor="#e2d8d8"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Upload"
+                android:textSize="10dp"
+                android:id="@+id/btn_upload_Image"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black"
+        android:layout_margin="5dp"/>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="5dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:background="@android:color/darker_gray"
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:id="@+id/image_download"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="사진 확인"
+                android:textSize="15dp"
+                android:textColor="@android:color/black"/>
+
+            <EditText
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_download_Name"
+                android:hint="ImageName"
+
+                />
+
+            <android.support.v7.widget.AppCompatButton
+                app:backgroundTint="#400af0"
+                android:textColor="#e2d8d8"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Download"
+                android:textSize="10dp"
+                android:id="@+id/btn_download_Image"
+                />
+
+            <android.support.v7.widget.AppCompatButton
+                app:backgroundTint="#f00aba"
+                android:textColor="#e2d8d8"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Delete"
+                android:textSize="10dp"
+                android:id="@+id/btn_delete_Image"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

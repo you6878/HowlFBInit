@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "105035325535",
+    "firebase_url": "https://howlfb-b6ccb.firebaseio.com",
+    "project_id": "howlfb-b6ccb",
+    "storage_bucket": "howlfb-b6ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105035325535:android:ad922c94ad672177",
+        "android_client_info": {
+          "package_name": "com.seminar.howlfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105035325535-g4ps9i8osk4pddefq4aqeao6ca2kqgin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminar.howlfb",
+            "certificate_hash": "d83e93e9d2958677e6581e09495b8179106f7133"
+          }
+        },
+        {
+          "client_id": "105035325535-6llsmju6nnkoi5ln0rnu6jsulk7u4mmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminar.howlfb",
+            "certificate_hash": "cde426a2adcb21bf734805305168a361e704b53e"
+          }
+        },
+        {
+          "client_id": "105035325535-4v8caupj3ccjhuo89rf77kp26acehk42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminar.howlfb",
+            "certificate_hash": "31482c2a3235338f43e13007ea73b85d70c7456e"
+          }
+        },
+        {
+          "client_id": "105035325535-6k7i14n343nroin0u9i0rrkc37n8rcdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminar.howlfb",
+            "certificate_hash": "5090973be12f566a187d6fc5722706d16a044551"
+          }
+        },
+        {
+          "client_id": "105035325535-3rp2mk4j379cpftltupbsjueq61t41ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminar.howlfb",
+            "certificate_hash": "e1c1ac0b5aa353f8f9453f9c60aa7e38390b4d83"
+          }
+        },
+        {
+          "client_id": "105035325535-6hcf83c3co89np1ll0bjg0csmqg20819.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminar.howlfb",
+            "certificate_hash": "c57c8ad2cc8d0b30c549beb473e0f0c61dc4d4fe"
+          }
+        },
+        {
+          "client_id": "105035325535-9aivmc6484a28isjfvb3aat4jemdqck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZOiTHCXYGpL_LygeW0SFsxMVKa2aoI-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105035325535-9aivmc6484a28isjfvb3aat4jemdqck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105035325535:android:605a69fea8d57a4d",
+        "android_client_info": {
+          "package_name": "com.seminal.howlfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105035325535-69nca2gl9mqu2psl5kmoptnholfacnjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminal.howlfb",
+            "certificate_hash": "c57c8ad2cc8d0b30c549beb473e0f0c61dc4d4fe"
+          }
+        },
+        {
+          "client_id": "105035325535-bb6rp6iiu050bi6gsg4r4c7qpe9e8hsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminal.howlfb",
+            "certificate_hash": "e1c1ac0b5aa353f8f9453f9c60aa7e38390b4d83"
+          }
+        },
+        {
+          "client_id": "105035325535-ta6jgv6mh650p8si2bq6tcv1k2819dsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminal.howlfb",
+            "certificate_hash": "5090973be12f566a187d6fc5722706d16a044551"
+          }
+        },
+        {
+          "client_id": "105035325535-174afa1bio8ndo284opdqvmit64hrqji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminal.howlfb",
+            "certificate_hash": "31482c2a3235338f43e13007ea73b85d70c7456e"
+          }
+        },
+        {
+          "client_id": "105035325535-h0dbal8en07f539cda8csig9723fk0lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminal.howlfb",
+            "certificate_hash": "cde426a2adcb21bf734805305168a361e704b53e"
+          }
+        },
+        {
+          "client_id": "105035325535-a3pdkl6c4308q7fldp35vg02mglgeflp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seminal.howlfb",
+            "certificate_hash": "d83e93e9d2958677e6581e09495b8179106f7133"
+          }
+        },
+        {
+          "client_id": "105035325535-9aivmc6484a28isjfvb3aat4jemdqck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZOiTHCXYGpL_LygeW0SFsxMVKa2aoI-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105035325535-9aivmc6484a28isjfvb3aat4jemdqck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

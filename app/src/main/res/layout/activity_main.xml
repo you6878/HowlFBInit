@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.seminar.howlfb.MainActivity">
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/login"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Firebase 로그인"
+        android:textColor="#e2d8d8"
+        app:backgroundTint="#f04d0a"/>
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/database"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Firebase 데이터베이스"
+        android:textColor="#e2d8d8"
+        app:backgroundTint="#0d5251"/>
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/storage"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Firebase 스토리지"
+        android:textColor="#e2d8d8"
+        app:backgroundTint="#37850a"/>
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/notification"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Firebase 푸시알람"
+        android:textColor="#e2d8d8"
+        app:backgroundTint="#1b3171"/>
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/config"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Firebase Config"
+        android:textColor="#e2d8d8"
+        app:backgroundTint="#f00051"/>
+</LinearLayout>
