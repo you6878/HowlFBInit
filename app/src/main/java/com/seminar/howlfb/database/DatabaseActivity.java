@@ -23,16 +23,5 @@ public class DatabaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_database);
 
-
-        editText = (EditText)findViewById(R.id.editText_name);
-        button_input = (Button)findViewById(R.id.button_input);
-        button_read = (Button)findViewById(R.id.button_read);
-
-        userDTO = new UserDTO();
-
-        uid = FirebaseAuth.getInstance().getCurrentUser().getUid();
-
-
-
     }
 }
