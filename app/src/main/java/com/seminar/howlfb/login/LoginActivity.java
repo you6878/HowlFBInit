@@ -22,4 +22,12 @@ public class LoginActivity extends AppCompatActivity {
 
 
     }
+    private void createAndLoginEmail(){
+
+
+    }
+
+    private void signinEmail(){
+
+    }
 }
