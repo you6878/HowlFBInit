@@ -5,13 +5,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.firestore.FirebaseFirestore;
 import com.seminar.howlfb.R;
 import com.seminar.howlfb.model.UserDTO;
 
 public class DatabaseActivity extends AppCompatActivity {
-    FirebaseFirestore db;
+
     EditText editText;
     Button button_input;
     Button button_read;

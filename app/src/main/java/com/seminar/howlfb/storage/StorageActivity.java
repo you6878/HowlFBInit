@@ -6,7 +6,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 
-import com.google.firebase.auth.FirebaseAuth;
+
 import com.seminar.howlfb.R;
 
 public class StorageActivity extends AppCompatActivity {

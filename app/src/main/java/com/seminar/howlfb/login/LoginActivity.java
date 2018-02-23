@@ -5,13 +5,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.google.firebase.auth.FirebaseAuth;
 import com.seminar.howlfb.R;
 
 public class LoginActivity extends AppCompatActivity {
 
-
-    private FirebaseAuth firebaseAuth;
 
     private EditText email;
     private EditText password;
